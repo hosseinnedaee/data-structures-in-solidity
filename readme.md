@@ -1,3 +1,4 @@
 ## Data structures implemented in Solidity language
 
- - Circular Queue in data structure using arrays
+ - [Circular Queue using arrays](https://)
+ - [Circular Queue using linked list](https://)
